@@ -67,8 +67,3 @@ window_main_layout.addWidget(result_gbox)
 window_main_layout.addWidget(give_answer_pbtn)
 window_main.setLayout(window_main_layout)
 
-
-
-window_main.setLayout(window_main_layout)
-
-
